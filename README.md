@@ -27,7 +27,7 @@ Create a virtual environment and install the required dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
-
+```
 ## Step 2: Setup the `.env` File
 
 Create a `.env` file in the project root directory with the following content:
